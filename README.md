@@ -28,6 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL ](https://github.com/NathaliaBarreiros/Coding-bootcamp-testimonial-slider)
+- Live Site URL: [live-url](https://pedantic-mestorf-fb3ff8.netlify.app/)
 
 ## My process
 
